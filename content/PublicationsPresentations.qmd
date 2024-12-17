@@ -37,3 +37,13 @@ title: Publications and Presentations
 16.  **Simonis, A.E.,** Baumann-Pickering, S., Oleson, E., Melcon, M.L., Gassmann, M., Wiggins, S.M. and Hildebrand, J.A., (2011). High-frequency modulated signals of killer whales (*Orcinus orca*) in the North Pacific. *The Journal of the Acoustical Society of America, 130(4)*, 2322-2322.
 
 ## Master's Theses
+
+Bozinovic, Marina. (2024). *Assessing noise exposure to beaked and sperm whales in the California Current.* \[Master's Thesis, San Francisco State University\]. <https://doi.org/10.46569/j3860f94c>
+
+Vanfleet Brown, Jackson. (2024). *Classification of species producing narrowband high-frequency echolocation clicks in the California Current.* \[Master's Thesis, San Francisco State University\]. <https://doi.org/10.46569/1z40m1957>
+
+Czeck, Geo. (2023). *Snapping shrimp (Alpheidae) acoustic behavior reflects changing conditions within the San Francisco Bay Estuary.* \[Master's Thesis, San Francisco State University\]. <https://doi.org/10.46569/rb68xk566>
+
+## Reports
+
+Rankin, S., Burger, K., Hom-Weaver, C., Palmer, K., Sakai, T., **Simonis, A.** (2024). Final [Report for Adrift in the California Current Survey: Passive Acoustic Monitoring in the California Current using Drifting Recorders.](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsael-swfsc.github.io%2FAdrift%2F&data=05%7C02%7Casimonis%40sfsu.edu%7Cf984d2a6fb8542a5be9c08dd157ab906%7Cd8fbe335822c41a987747f16709aac9f%7C0%7C0%7C638690339197640598%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=VZLW1MEQOEdvP19FVWID8tzC6MzF55ddvLrQPgcdiHY%3D&reserved=0) Camarillo (CA): U.S. Department of the Interior, Bureau of Ocean Energy Management. 97 p. Report No.: OCS Study BOEM 2024-047. Contract No.: G14 M20PG00013.

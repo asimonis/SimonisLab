@@ -8,17 +8,6 @@ The SFSU Acoustic Ecology Lab conducts research using passive acoustic monitorin
 
 This lab manual serves as the go-to handbook for the behind-the-scenes information to support our science.
 
-## Team Members
-
-### Anne Simonis, PhD: Principal Investigator
-
-![](content/images/anne_simonis.jpg){fig-align="left"}
-
-Dr. Anne Simonis is an acoustic ecologist, whose research explores marine mammal acoustic behavior, foraging ecology, and human impacts, including ocean noise and fishery interactions. She is an adjunct professor of biology at San Francisco State University. In addition to her research, she is enthusiastic about citizen science, and providing opportunities for students to conduct authentic, independent research.
-
-### Ellen Hines, PhD: Co-Advisor and Emeritus Professor
-
-### Sarah Shiers, Master's student
 
 ***Want to Copy this Lab Manual Format?***
 

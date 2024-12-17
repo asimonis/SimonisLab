@@ -32,7 +32,7 @@ website:
       - href: index.qmd
         text: Home
       - href: content/SharedValues.qmd
-        text: Shared Values and Best Practices
+        text: Shared Values
       - href: content/PublicationsPresentations.qmd
         text: Publications and Presentations
       - section: "Open Science"
