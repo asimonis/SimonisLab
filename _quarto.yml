@@ -3,9 +3,9 @@ project:
 
 website: 
   page-navigation: true
-  title: "SFSU Acoustic Ecology" 
-  site-url: "https://asimonis.github.io/SFSUAcousticEcology/" 
-  repo-url: "https://github.com/asimonis/SFSUAcousticEcology/"
+  title: "SimonisLab" 
+  site-url: "https://asimonis.github.io/SimonisLab/" 
+  repo-url: "https://github.com/asimonis/SimonisLab/"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   search: true
@@ -22,7 +22,7 @@ website:
     align: center
     tools: 
       - icon: github
-        href: https://asimonis.github.io/SFSUAcousticEcology/
+        href: https://asimonis.github.io/SimonisLab/
         text: "Simonis Lab at SFSU"
 
     style: "docked"
