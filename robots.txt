@@ -1,1 +1,1 @@
-Sitemap: https://asimonis.github.io/SFSUAcousticEcology/sitemap.xml
+Sitemap: https://asimonis.github.io/SimonisLab/sitemap.xml
