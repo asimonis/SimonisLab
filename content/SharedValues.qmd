@@ -16,7 +16,7 @@ The Simonis Lab Values also include:
 
 -   Ethics, justice, and equity for research participants and researchers
 -   Communication and respect
--   Open data and methods
+-   Open data and methods, whenever possible
 -   Willingness to teach and learn
 -   Openness to fresh perspectives
 -   Effective mentoring as a way to increase access, equity and inclusion in STEAMM (**S**cience, **T**echnology, **E**ngineering, **A**rt, **M**athematics & **M**edicine)
@@ -27,7 +27,7 @@ The Simonis Lab Values also include:
 ### **Communication**
 
 1.  We hold lab meetings regularly in which all members are expected to attend. During these meetings all members are expected to contribute by sharing progress reports, discussing challenges, and celebrating successes.
-2.  We use Slack and email for informal discussions between lab members and project teams. Similarly, we use Slack and Trello for some projects with external collaborators.
+2.  We use email and Slack for informal discussions between lab members and project teams.
 3.  All lab members are expected to check & respond to email and Slack regularly
 4.  Respond to emails within 2 days
 5.  Establish and be transparent about work-life balances and schedules
@@ -69,7 +69,7 @@ To disclose any such violence confidentially, contact:
 -   Counseling and Psychological Services Center: <https://psyservs.sfsu.edu/> or  (415) 338-2208
 -   For more information on your rights and available resources, please see:
     -   Equity Programs & Compliance: <https://titleix.sfsu.edu/> 
-    -    Safe Zone Program: <https://safezone.sfsu.edu/>
+    -   Safe Zone Program: <https://safezone.sfsu.edu/>
 
 Acts of incivility, harassment, or assault within our lab group will lead to swift sanctions for the person who has caused harm, up to and including expulsion from the laboratory group depending on the wishes of the person who was harmed, and the severity of the act.
 
