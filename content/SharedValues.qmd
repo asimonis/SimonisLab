@@ -29,7 +29,7 @@ The Simonis Lab Values also include:
 1.  We hold lab meetings regularly in which all members are expected to attend. During these meetings all members are expected to contribute by sharing progress reports, discussing challenges, and celebrating successes.
 2.  We use email and Slack for informal discussions between lab members and project teams.
 3.  All lab members are expected to check & respond to email and Slack regularly
-4.  Respond to emails within 2 days
+4.  Respond to emails within 2 business days
 5.  Establish and be transparent about work-life balances and schedules
 6.  In conversation, create space and allow time for people to pause and reflect (“7 second rule”)
 
